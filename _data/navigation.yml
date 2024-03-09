@@ -1,0 +1,24 @@
+# main links links
+main:
+  - title: "CV"
+    url: /cv/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Talks"
+    url: /talks/   
+
+  - title: "Research"
+    url: /research/
+
+  - title: "Teaching"
+    url: /teaching/    
+       
+  - title: "Astro Research Group"
+    url: /astro-mada/
+
+  - title: "Resources"
+    url: /resources/ 
+    
+
