@@ -21,7 +21,7 @@ This program is open to anyone in Madagascar with a passion for science, no prio
 
 Join us for 8 weeks of expert-led lectures, hands-on sessions, and practical training across Madagascar, Kenya, and South Africa. Enhance your skills in Linux, Python, and optical and radio astronomy, and open doors to advanced training or high-tech industries.
 
-Apply by 21 July 2024. The brochure and an application form can all be found at the links provide below:
+Apply by 21 July 2024. The brochure and an application form can all be found at the following links:
 [Brochure](https://drive.google.com/file/d/1PsRvuaVW_t6zMWkn6n9YqCjl3JfOlPhl/view?usp=sharing){:target="_blank" rel="noopener noreferrer"} and
 [Application Form](https://drive.google.com/file/d/1KlBduQvA2sbeR2N0hHa-Zf0GstkOZqov/view?usp=sharing){:target="_blank" rel="noopener noreferrer"}
 
