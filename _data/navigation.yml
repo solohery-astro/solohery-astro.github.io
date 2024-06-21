@@ -21,7 +21,6 @@ main:
   - title: "Resources"
     url: /resources/ 
 
-    - title: "News"
+  - title: "News"
     url: /news/
     
-
