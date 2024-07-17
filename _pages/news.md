@@ -23,5 +23,5 @@ Join us for 8 weeks of expert-led lectures, hands-on sessions, and practical tra
 
 Apply by 21 July 2024. The brochure and an application form can all be found at the following links:
 [Brochure](https://drive.google.com/file/d/1PsRvuaVW_t6zMWkn6n9YqCjl3JfOlPhl/view?usp=sharing){:target="_blank" rel="noopener noreferrer"} and
-[Application Form](https://drive.google.com/file/d/1KlBduQvA2sbeR2N0hHa-Zf0GstkOZqov/view?usp=sharing){:target="_blank" rel="noopener noreferrer"}
+[Application Form](https://drive.google.com/file/d/1KlBduQvA2sbeR2N0hHa-Zf0GstkOZqov/view?usp=sharing){:target="_blank" rel="noopener noreferrer"}. The most updated version of the [Basic Training Timetable 2024-25 is available at](https://drive.google.com/file/d/13xSbcWL0oGdo9o_Ww4Mc5BrrX3e1onfo/view?usp=sharing){:target="_blank" rel="noopener noreferrer"}.
 
