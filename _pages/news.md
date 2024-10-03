@@ -5,6 +5,13 @@ permalink: /news/
 author_profile: true
 ---
 
+## - DARA Project's Fully-Funded UK Masters in Radio Astronomy for African Students
+The DARA project offers a unique opportunity for African students to pursue a Masters by Research in radio astronomy at leading UK universities like Leeds, Manchester, and Edinburgh. Collaborate with African and South African partners, explore cutting-edge research, and receive a generous stipend. 
+Apply by October 20th, 2024.
+The brochure can be found at the following link: [DARA UK Masters project 2024](https://drive.google.com/file/d/1d7Es9_7ia99MUIrxUbUUZ3MszT0QgxcD/view?usp=sharing){:target="_blank" rel="noopener noreferrer"}
+The application form can be found at the following link: [DARA UK Application Form 2024](https://docs.google.com/document/d/1weoNmbDJakcPOvfhLD7Ha4eLTEtH8JBQ/edit?usp=sharing&ouid=100379375165940601953&rtpof=true&sd=true){:target="_blank" rel="noopener noreferrer"}
+
+
 ## - Development in Africa with Radio Astronomy (DARA) Postdoctoral Fellowships
 
 The Development in Africa with Radio Astronomy (DARA) project is offering post-doctoral Fellowship positions at universities and institutions across Africa. This fully-funded program supports independent research in radio astronomy and provides an excellent opportunity to advance your career.
