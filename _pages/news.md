@@ -12,7 +12,7 @@ Apply by October 20th, 2024.
 
 The brochure can be found at the following link: [DARA UK Masters project 2024](https://drive.google.com/file/d/1d7Es9_7ia99MUIrxUbUUZ3MszT0QgxcD/view?usp=sharing){:target="_blank" rel="noopener noreferrer"}.
 
-The application form can be found at the following link: [DARA UK Application Form 2024](https://docs.google.com/document/d/1weoNmbDJakcPOvfhLD7Ha4eLTEtH8JBQ/edit?usp=sharing&ouid=100379375165940601953&rtpof=true&sd=true){:target="_blank" rel="noopener noreferrer"}.
+The application form can be found at the following link: [DARA UK Application Form 2024](https://drive.google.com/file/d/1P2FxY7z6gfgY3OZSydBwDCbUloll3By_/view?usp=sharing){:target="_blank" rel="noopener noreferrer"}.
 
 
 ## - Development in Africa with Radio Astronomy (DARA) Postdoctoral Fellowships
