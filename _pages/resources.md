@@ -7,9 +7,9 @@ author_profile: true
 
 ## Below are links to syllabi for courses I’ve taught in the last couple of years:
 
-* [Galaxies](/files/Syllabus_galaxies.pdf){:target="_blank" rel="noopener noreferrer"}.
+* [Galaxies](https://drive.google.com/file/d/1shdM2LKVQAMiy1CAl262LeagvBfYvKB0/view?usp=sharing){:target="_blank" rel="noopener noreferrer"}.
 
-* [Cosmology](/files/Syllabus_cosmology.pdf){:target="_blank" rel="noopener noreferrer"} (Physique et Cosmologie).
+* [Observational Cosmology](https://drive.google.com/file/d/1MohyVBD026no9AI3YlvOwEiowkTr6ET4/view?usp=sharing){:target="_blank" rel="noopener noreferrer"} (Physique et Cosmologie).
 
 * [Introduction to Python/Linux](/files/Syllabus_Linux-Python.pdf){:target="_blank" rel="noopener noreferrer"} (Bases de données et systèmes d’information appliqués à l’astronomie).
 
