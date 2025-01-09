@@ -11,7 +11,7 @@ author_profile: true
 
 * [Observational Cosmology](https://drive.google.com/file/d/1MohyVBD026no9AI3YlvOwEiowkTr6ET4/view?usp=sharing){:target="_blank" rel="noopener noreferrer"} (Physique et Cosmologie).
 
-* [Introduction to Python/Linux](/files/Syllabus_Linux-Python.pdf){:target="_blank" rel="noopener noreferrer"} (Bases de données et systèmes d’information appliqués à l’astronomie).
+* [Introduction to Python/Linux](https://drive.google.com/file/d/1c41Pxxu1JNrrO8tlWxiXlig9q5P_QiuU/view?usp=sharing){:target="_blank" rel="noopener noreferrer"} (Bases de données et systèmes d’information appliqués à l’astronomie).
 
 
 
