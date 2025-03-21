@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## <span style="color: blue;"> Presentations at International Conferences </span> 
+* 2024: Solohery Randriamampandry. Poster Presentation, “Luminous Compact Blue Galaxies in intermediate redshift cluster and their dark matter”, Focus Meeting #9 (FM9), XXXII IAU General Assembly, Cape Town International Convention Centre (CTICC), Cape Town, South Africa.
 
 * 2023: S. M. Randriamampandry. Oral Presentation In-person, “Multi-wavelength mapping of galaxy evolution”, Malagasy Astronomy Meeting, MAM2023 Conference (Chair), Antananarivo, Madagascar.
 
