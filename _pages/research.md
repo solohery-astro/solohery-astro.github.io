@@ -22,7 +22,8 @@ Below are links to a list of current and past students in Astrophysics (Master I
 
 Postgraduate students
 ======
-* Ny Ando RALITERA, Master (ongoing).
+* Miora RANDRIANASY, Master (ongoing).
+* Ny Ando RALITERA, Master (2025).
 * Francia RAZAFIMANJATO, Master (2022).
 * Miora ANDRIATSARALAZA, Master (2018).
 * Hajanirina RANDRIAMANANTENA, Master (2017).
