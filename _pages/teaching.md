@@ -24,6 +24,7 @@ Below are links to a list of current and past Physics undergraduates (Licence, S
 
 Undergraduate students
 ======
+* ARINIVOMALALA Daniel, HERIZO ANDRILALAINA Olivier, & HERMANNE Fernander; **Licence (2024)**.
 * RAKOTONDRAZAFY Sébastien, RAKOTONIAINA Stanis, & ANDRIANJAKAHARISETRA Antsa Gabriel Etienne; **Licence (2023)**.
 * RAKOTOVAO Mendrikaja Roberto, RAMANANTSOA Andriamiarisoa Soaandro, RAKOTOARIMANANA Ndremahita Adrien, & RAMANDRANTOMANANA Miadanirina Lioka; **Licence (2022)**.
 * RANDRIANASY Miora Mbolatiana, RAMILIARISO Tsilavina Rynna Landry Princy, & AINA NOMENA Koloina Ny Antsaly; **Licence (2021)**.
