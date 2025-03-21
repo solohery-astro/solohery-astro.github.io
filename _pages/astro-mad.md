@@ -1,12 +1,9 @@
 ---
 layout: archive
-title: "The Research Group"
+title: "Astronomy Research Group "
 permalink: /astro-mad/
 author_profile: true
 ---
-
-## Astronomy Research Group 
-
 The UoA-Astro Research Group-- consists of postgraduate students, postdocs, and faculty members-- is affiliated with the Astrophysics & Astronomy (A&A) of the Department of Physics, University of Antananarivo. Members of the association ACNAA - Astro-Mada are pioneering both astronomy and cosmology analyses of multiwavelength observations both from ground- and space-based telescopes. We are part of the African Very Long Baselines Interfetometry (VLBI) Network (SKA/AVN) [African partner countries](https://www.sarao.ac.za/science/avn/){:target="_blank" rel="noopener noreferrer"}, and we work with the [Development in Africa with Radio Astronomy (DARA)](https://www.dara-project.org/){:target="_blank" rel="noopener noreferrer"} project. 
 
 Our research activities encompass various initiatives, including astro journal clubs, soft skills sessions, group meetings, and seminars. You can find the list of research articles publications by the two DARA postdocs hosted in our group at the NASA ADS
