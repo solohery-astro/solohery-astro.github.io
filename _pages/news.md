@@ -5,6 +5,13 @@ permalink: /news/
 author_profile: true
 ---
 
+## 🌌 DARA Advanced Programme in the UK - Fully Funded!
+Radio Astronomy [Masters in the UK](https://drive.google.com/file/d/1pUTC3gyN60xVdc0UBoHXmhnM6TzPuqRb/view?usp=sharing){:target="_blank" rel="noopener noreferrer"}! DARA is accepting applications from SKA African Partner Country Nationals. 
+
+📅 Applications close 1st of June 2025.
+
+🔗 Learn more: [https://www.dara-project.org/](https://www.dara-project.org/){:target="_blank" rel="noopener noreferrer"}.
+
 ## 🌌 DARA Basic Training Programme 2025/26 – Madagascar
 Are you a Malagasy graduate with a passion for astronomy, data science, or space science? The DARA (Development in Africa with Radio Astronomy) Basic Training Programme offers an exciting, fully-funded opportunity to gain theoretical and practical skills in astrophysics, radio astronomy, and data analysis.
 
