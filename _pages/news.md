@@ -8,8 +8,7 @@ author_profile: true
 ## 🌌 DARA Advanced Programme in the UK - Fully Funded!
 Radio Astronomy [Masters in the UK](https://drive.google.com/file/d/1pUTC3gyN60xVdc0UBoHXmhnM6TzPuqRb/view?usp=sharing){:target="_blank" rel="noopener noreferrer"}! DARA is accepting applications from SKA African Partner Country Nationals. 
 
-📅 Applications close 1st of June 2025.
-
+🗓  Applications close 1st of June 2025.
 🔗 Learn more: [https://www.dara-project.org/](https://www.dara-project.org/){:target="_blank" rel="noopener noreferrer"}.
 
 ## 🌌 DARA Basic Training Programme 2025/26 – Madagascar
