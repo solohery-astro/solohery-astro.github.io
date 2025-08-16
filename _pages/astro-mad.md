@@ -12,9 +12,9 @@ Our research activities encompass various initiatives, including astro journal c
 
 We have been participating in astro themed research mini-projects for BSc Physics students in collaboration with the Astro pedagogical team from the Department. Additionally, we collaborate with Malagasy astronomers residing abroad to supervise postgraduate students. A list of compiled Astro papers, with affiliations with the University of Antananarivo, is accessible through the NASA ADS public library. The link to access those resources is provided <span style="color: blue;"> here.  </span>
 
-### Past events:
-Malagasy Astronomy Meeting (MAM2023) Conference:
+### Past Conference:
+Malagasy Astronomy Meeting (MAM2023):
 We have had our inaugural Malagasy Astronomy Meeting that took place on 13-15 December 2023 in Antananarivo, Madagascar. Please visit the [MAM2023 conference website](https://astronomymadagascar.github.io/){:target="_blank" rel="noopener noreferrer"} for further details.
 
-### Upcoming events:
-Malagasy Astronomy Meeting (MAM2025) Conference is scheduled to take place from 10 to 12 December 2025 at the campus of the University of Antananarivo. <span style="color: blue;"> (More info is coming soon, stay tuned!) </span> 
+### Upcoming event:
+Malagasy Astronomical Society (MASS) Meeting is scheduled for late 2026 at the campus of the University of Antananarivo. <span style="color: blue;"> (More info is coming soon, stay tuned!) </span> 
