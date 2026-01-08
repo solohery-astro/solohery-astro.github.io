@@ -7,15 +7,17 @@ author_profile: true
 
 <br/><img src='/images/AEA.png'>
 
-I have taught postgraduate courses for Master in Astronomy & Astrophysics (Semester 9: ET&ED) in the Department of Physics, Faculty of Sciences.
+I have taught postgraduate courses for Master in Astronomy & Astrophysics (Semester 8 and 9: ET, ED, & EP) in the Department of Physics, Faculty of Sciences.
 
 These courses include: 
 
-* Galaxies.
+* Observational Astrophysics (Astrophysique expérimentale).
+
+* Introduction to Python/Linux (Bases de données et systèmes d’information appliqués à l’astronomie).
 
 * Cosmology (Physique et Cosmologie).
 
-* Introduction to Python/Linux (Bases de données et systèmes d’information appliqués à l’astronomie).
+* Galaxies.
 
 Physics Students
 ======
