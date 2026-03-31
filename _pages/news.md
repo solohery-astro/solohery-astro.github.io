@@ -5,6 +5,18 @@ permalink: /news/
 author_profile: true
 ---
 
+## Applications are now open for DARA Basic Training in Astrophysics for the 2026/27
+
+The programme is for any recent graduates in physics or a related subject from: Botswana, Ghana, Kenya, Madagascar, Mozambique, Namibia, Zambia, or South Africa. Applicants from South Africa should be current/recent Honours students from an HDI. No prior experience of astrophysics is required.
+
+The training comprises of four intensive training units, spread throughout the year (June 2026 - February 2027). Covering: astrophysics; technical training in using a radio telescope; radio astronomy observation; data reduction and analysis; and computer programming. Training is delivered by experts from the project’s UK and South Africa partners, as well as local partners in each country.
+
+For more information and to apply, please click here: [https://lnkd.in/eMmqAfYP](https://lnkd.in/eMmqAfYP){:target="_blank" rel="noopener noreferrer"}.
+
+Closing date: 19th April 2026
+
+The brochure can be found at the following link: [Brochure](https://drive.google.com/file/d/1zDIKHIq8tOmZXiuFspoUpLIAGJSyKosE/view?usp=sharing){:target="_blank" rel="noopener noreferrer"}.
+
 ## 🌌 DARA Advanced Programme in the UK - Fully Funded!
 Radio Astronomy [Masters in the UK](https://drive.google.com/file/d/1pUTC3gyN60xVdc0UBoHXmhnM6TzPuqRb/view?usp=sharing){:target="_blank" rel="noopener noreferrer"}! DARA is accepting applications from SKA African Partner Country Nationals. 
 
