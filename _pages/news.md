@@ -4,7 +4,6 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
-## Update 17 September 2026
 ## Applications are now open for DARA Basic Training in Astrophysics for the 2026/27
 
 The programme is for any recent graduates in physics or a related subject from: Botswana, Ghana, Kenya, Madagascar, Mozambique, Namibia, Zambia, or South Africa. Applicants from South Africa should be current/recent Honours students from an HDI. No prior experience of astrophysics is required.
