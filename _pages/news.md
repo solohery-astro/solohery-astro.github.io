@@ -10,7 +10,7 @@ The programme is for any recent graduates in physics or a related subject from: 
 
 The training comprises of four intensive training units, spread throughout the year (June 2026 - February 2027). Covering: astrophysics; technical training in using a radio telescope; radio astronomy observation; data reduction and analysis; and computer programming. Training is delivered by experts from the project’s UK and South Africa partners, as well as local partners in each country.
 
-For more information and to apply, please click here: [https://lnkd.in/eMmqAfYP](https://lnkd.in/eMmqAfYP){:target="_blank" rel="noopener noreferrer"}.
+For more information and to apply, please click here: [https://lnkd.in/eMmqAfYP](https://www.dara-project.org/basic-program){:target="_blank" rel="noopener noreferrer"}.
 
 Closing date: 19th April 2026
 
