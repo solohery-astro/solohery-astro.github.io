@@ -22,6 +22,8 @@ The five-day workshop brought together international and local researchers to es
 
 [SARAO – Madagascar installs first-of-its-kind TART telescope](https://www.sarao.ac.za/news/madagascar-installs-first-of-its-kind-tart-telescope/){:target="_blank" rel="noopener noreferrer"}
 
+[TART Madagascar, June 2026](https://tart.elec.ac.nz/fr/blog/tart-madagascar/){:target="_blank" rel="noopener noreferrer"}
+
 [Université d'Antananarivo - Facebook – TART installation in Madagascar](https://web.facebook.com/photo?fbid=1342590721311523&set=pcb.1342591211311474){:target="_blank" rel="noopener noreferrer"}
 
 [Rhodes University - LinkedIn – TART installation in Madagascar](https://www.linkedin.com/posts/a-new-window-on-the-radio-sky-has-opened-ugcPost-7472288889819439105-FsmZ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACpxacUBsMbgjDvjirXMfI9aQIWW1qzfq-g){:target="_blank" rel="noopener noreferrer"}
