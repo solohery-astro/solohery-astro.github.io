@@ -19,10 +19,13 @@ We have had our inaugural Malagasy Astronomy Meeting that took place on 13-15 De
 ### Madagascar Installs First TART Telescope
 In June 2026, the University of Antananarivo hosted the installation of Madagascar’s first Transient Array Radio Telescope (TART).
 The five-day workshop brought together international and local researchers to establish this open-source radio telescope, expanding the growing TART network across Africa and strengthening radio astronomy and training in Madagascar.
-###### Related media posts:
+#### Related media posts:
 [SARAO – Madagascar installs first-of-its-kind TART telescope](https://www.sarao.ac.za/news/madagascar-installs-first-of-its-kind-tart-telescope/){:target="_blank" rel="noopener noreferrer"}
+
 [Université d'Antananarivo - Facebook – TART installation in Madagascar](https://web.facebook.com/photo?fbid=1342590721311523&set=pcb.1342591211311474){:target="_blank" rel="noopener noreferrer"}
+
 [Rhodes University - LinkedIn – TART installation in Madagascar](https://www.linkedin.com/posts/a-new-window-on-the-radio-sky-has-opened-ugcPost-7472288889819439105-FsmZ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACpxacUBsMbgjDvjirXMfI9aQIWW1qzfq-g){:target="_blank" rel="noopener noreferrer"}
 
 ### Upcoming Conference:
-Malagasy Astronomy Meeting (MAM2026): We will have the second MAM2026 conference that will take place on 16-18 December 2026 at the University of Antananarivo, Madagascar. This will be in celebration of the 10th anniversary of the Malagasy Astronomical Society [MASS](https://web.facebook.com/astrosocietymg/){:target="_blank" rel="noopener noreferrer"} and in preparation for the 2027 IAU General Assembly. Please visit the MAM2026 conference website [MAM2026 conference website](https://astronomymada.github.io/mam-2026/){:target="_blank" rel="noopener noreferrer"} for further details.
+Malagasy Astronomy Meeting (MAM2026): 
+We will have the second Malagasy Astronomy Meeting that is scheduled to take place on 16-18 December 2026 at the University of Antananarivo, Madagascar. This will be in celebration of the 10th anniversary of the Malagasy Astronomical Society [MASS](https://web.facebook.com/astrosocietymg/){:target="_blank" rel="noopener noreferrer"} and in preparation for the 2027 IAU General Assembly. Please visit the MAM2026 conference website [MAM2026 conference website](https://astronomymada.github.io/mam-2026/){:target="_blank" rel="noopener noreferrer"} for further details.
