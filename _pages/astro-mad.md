@@ -16,7 +16,8 @@ We have been participating in astro themed research mini-projects for BSc Physic
 Malagasy Astronomy Meeting (MAM2023):
 We have had our inaugural Malagasy Astronomy Meeting that took place on 13-15 December 2023 in Antananarivo, Madagascar. Please visit the [MAM2023 conference website](https://astronomymadagascar.github.io/){:target="_blank" rel="noopener noreferrer"} for further details.
 
-### Madagascar Installs First TART Telescope:
+### Past Workshop:
+Madagascar Installs First TART Telescope:
 In June 2026, the University of Antananarivo hosted the installation of Madagascar’s first Transient Array Radio Telescope (TART).
 The five-day workshop brought together international and local researchers to establish this open-source radio telescope, expanding the growing TART network across Africa and strengthening radio astronomy and training in Madagascar. Read more from a few media posts below:
 
